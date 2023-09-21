@@ -43,4 +43,4 @@ Una vez que el plugin esté instalado correctamente, enviará automáticamente n
 Este plugin está bajo la Licencia GNU General Public License v2.0. Puedes consultar el archivo LICENSE para más detalles.
 
 
-¡Gracias por usar Terachat Notifications DLM Extension
+¡Gracias por usar Terachat Notifications Follow Up Emails Extension
